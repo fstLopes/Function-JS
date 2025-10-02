@@ -1,0 +1,1 @@
+const elementos = document.getElementById("conteudoDinamico")
